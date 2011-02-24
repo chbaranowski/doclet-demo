@@ -1,4 +1,4 @@
-A java demo project how to write a javadoc extension a doclet.
+A java demo project how to write a javadoc extension as a doclet. Or how to read custom javadoc tags.
 
 The demo doclet code is in the class DocDoclet here:
 https://github.com/tux2323/doclet-demo/blob/master/src/main/java/com/github/tux2323/doclet/DocDoclet.java
